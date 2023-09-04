@@ -1,7 +1,7 @@
 import {createAsyncThunk, createSlice} from '@reduxjs/toolkit'
 
 export const fetchUser = createAsyncThunk('user/fetchUser', () => {
-    return fetch('/docs/userInfo.json')
+    return fetch('docs/userInfo.json')
       .then(response => response.json())
   }
 )
@@ -12,7 +12,7 @@ const initialState = {
     userName: "",
     email: "",
     bio: "",
-    defaultPhotoUrl: '/images/defaultPhotos/noPhoto.png',
+    defaultPhotoUrl: 'images/defaultPhotos/noPhoto.png',
     recentPayments: []
   },
   loading: true,

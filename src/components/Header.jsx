@@ -155,7 +155,7 @@ export const Header = () => {
         <HeaderNav>
           <HeaderMenu>
             <HeaderLogo to="/">
-              <img src="/images/icons/logo.png" alt="AlfaBank logo"/>
+              <img src="images/icons/logo.png" alt="AlfaBank logo"/>
             </HeaderLogo>
 
             <HeaderMenuLinks>

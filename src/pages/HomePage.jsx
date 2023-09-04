@@ -222,7 +222,7 @@ export const HomePage = () => {
                 <li key={desc}>{desc}</li>
               ))}
             </ul>
-            <img src="/images/bestDealImage.webp" alt="best deal image"/>
+            <img src="images/bestDealImage.webp" alt="best deal image"/>
             <Link to="/">Подробнее</Link>
           </BestDealItem>
         ))}

@@ -53,35 +53,35 @@ const PhotoItem = styled.div`
 const AvailablePhotos = [
   {
     id: 1,
-    photoUrl: "/images/defaultPhotos/photo1.png"
+    photoUrl: "images/defaultPhotos/photo1.png"
   },
   {
     id: 2,
-    photoUrl: "/images/defaultPhotos/photo2.png"
+    photoUrl: "images/defaultPhotos/photo2.png"
   },
   {
     id: 3,
-    photoUrl: "/images/defaultPhotos/photo3.png"
+    photoUrl: "images/defaultPhotos/photo3.png"
   },
   {
     id: 4,
-    photoUrl: "/images/defaultPhotos/photo4.png"
+    photoUrl: "images/defaultPhotos/photo4.png"
   },
   {
     id: 5,
-    photoUrl: "/images/defaultPhotos/photo5.png"
+    photoUrl: "images/defaultPhotos/photo5.png"
   },
   {
     id: 6,
-    photoUrl: "/images/defaultPhotos/photo6.png"
+    photoUrl: "images/defaultPhotos/photo6.png"
   },
   {
     id: 7,
-    photoUrl: "/images/defaultPhotos/photo7.png"
+    photoUrl: "images/defaultPhotos/photo7.png"
   },
   {
     id: 8,
-    photoUrl: "/images/defaultPhotos/photo8.png"
+    photoUrl: "images/defaultPhotos/photo8.png"
   }
 ]
 
